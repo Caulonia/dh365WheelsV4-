@@ -164,9 +164,9 @@ text-align: end;
 .logoRS{
   height: 20px;
 }
-
-
-
+.fuente-google{
+  color: #1f53c5;
+}
 }
 
 /* ----------------------------------------------------------------------- */
@@ -230,6 +230,9 @@ text-align: end;
   background-color: rgb(182, 182, 182);
   color: black;
 }
+.fuente-google{
+  color: #1f53c5;
+}
 
 }
 
@@ -281,6 +284,9 @@ text-align: end;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.fuente-google{
+  color: #1f53c5;
 }
 
 }

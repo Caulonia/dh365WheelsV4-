@@ -13,17 +13,22 @@
 
     .presentacion {
         width: 100vw;
-        height: 202px;
+        height: 315px;
         background: url("/img/JPEG/Marcas/Ferrari/LaFerrari/wallpaper_movil-min.jpg");
         background-size: 100%;
         background-repeat: no-repeat;
         margin-top: 60px;
     }
+    .textoAuto p{
+        color: black;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
 
 
     .nombreMarca {
         width: 100vw;
-        height: 30px;
+        height: 20px;
         background-color: #fff;
         display: flex;
         align-items: center;
@@ -64,7 +69,7 @@
     .img5,
     .img6 {
         width: 33.33vw;
-        height: 100px;
+        height: 105px;
     }
 
     .img1 {
@@ -117,6 +122,9 @@
     width: 90vw;
     /* padding: 0% 10%; */
   }
+  .carrusel li{
+      margin-top: 5px;
+  }
   
   ul, li {
       padding: 0;
@@ -143,10 +151,10 @@
   
   ul.slider li img{
     width: 100%;
-    height: 107px;
+    height: 100%;
     object-fit: cover;
     position: absolute;
-    top: 43px;
+    top: 10px;
   }
   
   ul.slider li:first-child {
@@ -190,7 +198,7 @@ ul.slider li:target {
 
     .presentacion {
         width: 100vw;
-        height: 48vh;
+        height: 60vh;
         background: url("/img/JPEG/Marcas/Ferrari/LaFerrari/wallpaper_movil-min.jpg");
         background-size: 100%;
         background-repeat: no-repeat;
@@ -207,6 +215,7 @@ ul.slider li:target {
     width: 45vw;
     height: 20vh;
     padding: 2% 3%;
+    margin-left: 5px;
     /* background-color: red; */
     background-size: 90% 90%;
     background-repeat: no-repeat;
@@ -220,7 +229,7 @@ ul.slider li:target {
     .img5,
     .img6 {
         width: 33.33vw;
-        height: 30%;
+        height: 50%;
     }
 
     .detalle {
@@ -234,6 +243,10 @@ ul.slider li:target {
 
     .textoAuto{
         padding: 0% 10%;
+    }
+    .textoAuto p{
+        color: black;
+        font-weight: bold;
     }
 
 
@@ -315,6 +328,191 @@ ul.slider li:target {
 
 /* ------------------------------------------ */
 
-@media (min-width: 1280px) {}
+@media (min-width: 1280px) {
 
+    .galeria {
+        width: 100vw;
+        height: 600px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .nombreMarca {
+        width: 100vw;
+        height: 100px;
+        background-color: #fff;
+        display: flex;
+        align-items: center;
+        border-bottom: 1px #c1c1c1 solid;
+    }
+.presentacion {
+    width: 100vw;
+    height: 125vh;
+    background: url("/img/JPEG/Marcas/Ferrari/LaFerrari/wallpaper_movil-min.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+}
+
+
+
+.descripcion{
+width: 50vw;
+}
+
+.imagenAuto {
+width: 45vw;
+height: 20vh;
+padding: 2% 3%;
+margin-left: 5px;
+/* background-color: red; */
+background-size: 90% 90%;
+background-repeat: no-repeat;
+background-image: url('/img/PNG/Marcas/Ferrari/LaFerrari/LaFerrari.png');
+}
+
+.img1,
+.img2,
+.img3,
+.img4,
+.img5,
+.img6 {
+    width: 33.33vw;
+    height: 50%;
+}
+
+.detalle {
+    width: 100vw;
+    height: 35vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 5px 0;
+}
+
+.textoAuto{
+    padding: 0% 10%;
+}
+.textoAuto p{
+    color: black;
+    font-weight: bold;
+}
+
+
+.carrusel{
+    width: 50%;
+    margin: 0% 2%;
+}
+
+
+
+/* ------------------------ */
+
+ul, li {
+padding: 0;
+margin: 0;
+list-style: none;
+}
+
+ul.slider{
+position: relative;
+width: 100%;
+height: 170px;
+}
+
+ul.slider li {
+position: absolute;
+left: 0px;
+top: -40px;
+opacity: 0;
+width: inherit;
+height: inherit;
+transition: opacity .5s;
+background:#fff;
+}
+
+ul.slider li img {
+width: 50%;
+height: auto;
+object-fit: cover;
+position: absolute;
+top: 50%;
+right: 25%;
+
+}
+
+ul.slider li:first-child {
+opacity: 1; /*Mostramos el primer <li>*/
+}
+
+ul.slider li:target {
+opacity: 1;
+/*Mostramos el <li> del enlace que pulsemos*/
+}
+
+.menu {
+text-align: center;
+margin: 15px;
+}
+
+.menu li {
+display: inline-block;
+text-align: center;
+}
+
+.menu li a {
+display: inline-block;
+color: white;
+text-decoration: none;
+background-color: grey;
+padding: 10px;
+width: 20px;
+height: 20px;
+font-size: 20px;
+border-radius: 100%;
+
+
+}
+.cont-Detalles {
+    background-color: #fff;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.colLogo{
+width: 15%;
+/* background-color: green; */
+margin-left: 20px;
+}
+
+.datosDetalles{
+    display: flex;
+    width: 85%;
+    /* background-color: aqua; */
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+.colDetalle {
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px 0 20px;
+    /* background-color: blue; */
+}
+
+.estDetalle {
+    color: rgb(122, 121, 121);
+    font-size: 20px;
+}
+
+.dinamDetalle {
+    color: #000;
+    margin-top: -5px;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+}
 }

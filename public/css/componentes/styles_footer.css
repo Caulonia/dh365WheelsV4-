@@ -1,0 +1,341 @@
+/* --------------------------- FOOTER ----------------------------------*/
+/* -------------------------------------------------------------------- */
+
+.cuerpo-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: #24303c;
+    padding: 0px 15px;
+  }
+  
+  .icono-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    width: 50px;
+  }
+  
+  .contacto-icono {
+    display: flex;
+  }
+  
+  .icono-texto {
+    width: 25px;
+    margin-right: 5px;
+  }
+  
+  
+  .columna-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    /* margin: 0px 10px; */
+  }
+  
+  .columna-footer li {
+    font-family: "Saira";
+    color: #fff;
+    font-weight: 200;
+    margin-left: 12px;
+    font-size: 15px;
+  }
+  
+  .columna-footer ul {
+    margin-left: 10px;
+  }
+  
+  .input-footer {
+    width: 65%;
+    height: 30px;
+    border: none;
+    font-size: 15px;
+    font-family: "Saira";
+    font-weight: 400;
+  }
+  
+  .boton-footer {
+    width: 30%;
+    height: 30px;
+    background: linear-gradient(45deg, rgba(217, 87, 29, 1) 0%, rgba(239, 179, 46, 1) 100%);
+    border: none;
+    margin-left: 2%;
+    font-size: 15px;
+    font-family: "Saira";
+    font-weight: 400;
+  }
+  
+  
+  .rsociales-footer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    margin: 20px 0;
+  }
+  
+  .columna-footer h3 {
+    color: #fff;
+  }
+  
+  .suscribase {
+    width: 100%;
+    /* margin-left: 10px; */
+  }
+  
+  .derechos-footer {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20px;
+    background-color: #24303c;
+    padding: 5px 0;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+  }
+  .h3-footer{
+    color: #fff;
+  }
+  .p-footer{
+    color: #fff;
+  }
+  
+  /* ------------------------------------------------------------------------- */
+  /* ------------------------------------------------------------------------- */
+  /* ------------------------------------------------------------------------- */
+  /* --------------------------- FOOTER ----------------------------------*/
+/* -------------------------------------------------------------------- */
+@media (min-width: 700px){
+.cuerpo-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: row;
+    background-color: #24303c;
+    padding: 0px 15px;
+  }
+  
+  .icono-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 40px;
+  }
+  
+  .contacto-icono {
+    display: flex;
+  }
+  
+  .icono-texto {
+    width: 25px;
+    margin-right: 5px;
+  }
+  
+  
+  .columna-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    /* margin: 0px 10px; */
+    width: 45%;
+  }
+  
+  .columna-footer li {
+    font-family: "Saira";
+    color: #fff;
+    font-weight: 200;
+    margin-left: 12px;
+    font-size: 20px;
+  }
+  
+  .columna-footer ul {
+    margin-left: 10px;
+  }
+  
+  .input-footer {
+    width: 65%;
+    height: 30px;
+    border: none;
+    font-size: 15px;
+    font-family: "Saira";
+    font-weight: 400;
+  }
+  
+  .boton-footer {
+    width: 30%;
+    height: 30px;
+    background: linear-gradient(45deg, rgba(217, 87, 29, 1) 0%, rgba(239, 179, 46, 1) 100%);
+    border: none;
+    margin-left: 2%;
+    font-size: 15px;
+    font-family: "Saira";
+    font-weight: 400;
+  }
+  
+  
+  .rsociales-footer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    margin: 20px 0;
+  }
+  
+  .columna-footer h3 {
+    color: #fff;
+  }
+  
+  .suscribase {
+    width: 100%;
+    /* margin-left: 10px; */
+  }
+  
+  .derechos-footer {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20px;
+    background-color: #24303c;
+    padding: 5px 0;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+  }
+  .h3-footer{
+    color: #fff;
+  }
+  .p-footer{
+    color: #fff;
+  }
+  
+  }
+  
+  
+  /* ------------------------------------------------------------------------- */
+  /* ------------------------------------------------------------------------- */
+  /* ------------------------------------------------------------------------- */
+  @media (min-width: 1280px){
+      /* --------------------------- FOOTER ----------------------------------*/
+/* -------------------------------------------------------------------- */
+.cuerpo-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-direction: row;
+    background-color: #24303c;
+    padding: 0px 15px;
+    height: 350px;
+  }
+  
+  .icono-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 40px;
+  }
+  
+  .contacto-icono {
+    display: flex;
+  }
+  
+  .icono-texto {
+    width: 25px;
+    margin-right: 5px;
+  }
+  
+  
+  .columna-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    /* margin: 0px 10px; */
+    width: 45%;
+  }
+  
+  .columna-footer li {
+    font-family: "Saira";
+    color: #fff;
+    font-weight: 200;
+    margin-left: 12px;
+    font-size: 20px;
+  }
+  
+  .columna-footer ul {
+    margin-left: 10px;
+  }
+  
+  .input-footer {
+    width: 65%;
+    height: 30px;
+    border: none;
+    font-size: 15px;
+    font-family: "Saira";
+    font-weight: 400;
+  }
+  
+  .boton-footer {
+    width: 30%;
+    height: 30px;
+    background: linear-gradient(45deg, rgba(217, 87, 29, 1) 0%, rgba(239, 179, 46, 1) 100%);
+    border: none;
+    margin-left: 2%;
+    font-size: 15px;
+    font-family: "Saira";
+    font-weight: 400;
+  }
+  
+  
+  .rsociales-footer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: center;
+    margin: 20px 0;
+  }
+  
+  .columna-footer h3 {
+    color: #fff;
+  }
+  
+  .suscribase {
+    width: 100%;
+    /* margin-left: 10px; */
+  }
+  
+  .derechos-footer {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20px;
+    background-color: #24303c;
+    padding: 5px 0;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+  }
+  .h3-footer{
+    color: #fff;
+  }
+  .p-footer{
+    color: #fff;
+  }
+}
+  
+  

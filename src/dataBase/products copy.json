@@ -1,0 +1,275 @@
+
+  [{},
+  {
+    "id": "2",
+    "marca": "Suzuki",
+    "modelo": "Swift",
+    "year": 1993,
+    "description": "nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam",
+    "price": "2090.65",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHeSURBVDjLjZO/i1NBEMc/u+/lBYxiLkgU7vRstLEUDyxtxV68ykIMWlocaGHrD1DxSAqxNf4t115jo6DYhCRCEsk733s7u2PxkuiRoBkYdmGZz3xndsaoKgDGmC3gLBDxbxsA31U1AKCqzCBXsywbO+e8iOgqz7JM2+32W+AiYFX1GGDHOeen06mmabrwyWSio9FI+/2+ioj2ej3tdDoLiJm+bimAhgBeUe9RmbkrT5wgT97RaDQoioIQAt1ud7/Var1h+uq+/s9+PLilw+FwqSRgJ1YpexHSKenHF4DFf/uC3b7CydsPsafraO5IkoTxeEwIARGh2WwCYNUJAOmHZ5y4eY/a7h4hPcIdHvDz/fMSnjviOCZJEiqVCtVqdfEl8RygHkz9DLZWQzOHisd9OizfckcURRhjMMbMm14CQlEC/NfPjPd2CSJQCEEEDWYBsNZijFkaCqu5Ky+blwl5geaOUDg0c8TnNssSClkER1GEtXYZcOruI6ILl1AJqATirW02Hr8sFThBVZfklyXMFdQbbDzdXzm78z4Bx7KXTcwdgzs3yizuzxAhHvVh4avqBzAzaQa4JiIHgGE9C3EcX7ezhVIgeO9/AWGdYO/9EeDNX+t8frbOdk0FHhj8BvUsfP0TH5dOAAAAAElFTkSuQmCC",
+    "keywords": [
+      "Zulu",
+      "Golf"
+    ],
+    "color": "Mauv"
+  },
+  {
+    "id": "3",
+    "marca": "Hyundai",
+    "modelo": "Veracruz",
+    "year": 2012,
+    "description": "lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem",
+    "price": "4632.58",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJ/SURBVDjLpZNLiI1xGMZ/3/edOWZojjkiudbMuEVMM4SMBVlbSUpZyAIhG4qlkcJWycZOSslCMTNFuYVpRrkzLuMy5tA4xulcv//t/Vt80ZTLxltvz7N43vd5F+8TeO/5n0r9JNLTs9A7t8FbO0WsfSvWdtdv2VIAKJ45kxWtt4rWh5xSQ6LUyeldXVcAAu890t29zzt3hPp0ljBCyiVMofhMjNkmWldE64t1U5qWTpjXiiuVqDx8RDX35ZxTalfgrl7d6K2+HC5cQBBGYAyk05jhYWrPX350WpcbWpsX17e0QGEMwgiasnzv7eX7oyfHUmLt3mjWTIJqFXJfwAlYS13zHKKV7XN9rInqG6D/AYgkBo0TyXSuId/Xvz0lxiyJMhkYegfGghdwDl68JpycgSiAwTeAgLYJ5scIWgUXx5mUGJPGOYgVKJUs0CZZMpIDaxNnEfAOlAFxYDSilKRE66K3dlpgDcQ1sC4ZtjbB8dxacBZSIYQhTqkwFKWu28FBmD0TKmWo1SCOwagEdZxgrZYYlEowv4X8jVuIUudDp9SJyodP7+NPI9C2FNJRIipXk4FqDVQM1QrUhbB2FYXRMXJXusdE667Ae0/++PFlotTZhmzjiknLlxOO5mDgCQRBcnq1Cm2L8M3zGO3p5fPte0/FmN0d/f13gp+v/Pnw4clOqQOi1P5sR1tj46wZcPceFMuwdjXFbwXen7+gRevTYsyxjoGB/K9PHF/vduxY4ZQ61dQ8d/XUDevBWfJ37jJy/eaQaL2z/f79a+P1wZ/C9Grz5ian1FHRek92zozg68s3l0Trg+19fUO/ib33f+3H69ZtetjZuf9fmuB/4/wDFoO2ZVesLdkAAAAASUVORK5CYII=",
+    "keywords": [
+      "Papa",
+      "Delta"
+    ],
+    "color": "Mauv"
+  },
+  {
+    "id": "4",
+    "marca": "Mazda",
+    "modelo": "MPV",
+    "year": 1995,
+    "description": "vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea",
+    "price": "4762.83",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEdSURBVDjLjZIxTgNBDEXfbDZIlIgmCKWgSpMGxEk4AHehgavQcJY0KRKJJiBQLkCR7PxvmiTsbrJoLY1sy/Ibe+an9XodtqkfSUd+Op0mTlgpidFodKpGRAAwn8/pstI2AHvfbi6KAkndgHZx31iP2/CTE3Q1A0ji6fUjsiFn8fJ4k44mSCmR0sl3QhJXF2fYwftXPl5hsVg0Xr0d2yZnIwWbqrlyOZlMDtc+v33H9eUQO7ACOZAC2Ye8qqIJqCfZRtnIIBnVQH8AdQOqylTZWPBwX+zGj93ZrXU7ZLlcxj5vArYi5/Iweh+BNQCbrVl8/uAMvjvvJbBU/++6rVarGI/HB0BbI4PBgNlsRtGlsL4CK7sAfQX2L6CPwH4BZf1E9tbX5ioAAAAASUVORK5CYII=",
+    "keywords": [
+      "Whiskey",
+      "Delta",
+      "Sierra",
+      "Juliett"
+    ],
+    "color": "Maroon"
+  },
+  {
+    "id": "5",
+    "marca": "Ford",
+    "modelo": "Econoline E350",
+    "year": 1993,
+    "description": "erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel",
+    "price": "2206.04",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJRSURBVDjLhVNNaBNREP7eZvNHU9aqBDxkiScvIh78Aw8qleTgz0lvHjwoivW/YBBBDxY8iIeiBiMoeBPBQIUqXnrQgxBy0l6aEkIWbDA0JTZtNrub3XVmQ7YEbRx4O+/tvPm+mXkzwnVdDJNsNuu2Wi1kMhnxL7uE/4jjOCgUCpvaZf7kcrknFMlRIcQOOm6nFaS955xMJiHL8nAA0zRvp9NphMNh/7Jt295ikEAg4DtoVyYvoGN8VF8/W/IB+JKiKDjwfgxR2YHucLouRkMW3hz65YNql2/dG5HsqfV2p0jH/X4N+AKziYCLO0cEHo67mBqn/4qMVdPB8ZYF7dLNi9A7M+bvNmKys09LnZnwASRJgmVZEJKLEIFIxB6gxYCkcHDdRHB55SXanZPWavsGpQDaX/NT4Ag4DUGp3v9KPpSB4Cxoua6NmWQc52pNytV8pM6+FdrhE9MEsssH4CIxwLs9857uF4+1ElAgEZosS+g213uVbHcAw9jogz7A7Eoec/onlEol77xt+hW40VLaMmTbYse72t5j12MjFKpuLPwVQWr0VI95Zy+C+tXzGCN7aWsMWxZ/TlDYX4LC+QGTCtMxng68AjuUy2VPVyoVj1nTNC/MYiIOtfA5S6xnw0S5pjWKau3784EI2IG7rq85/0QigT4Bi7r47YEW312DaX0YmAV+Rmau1WoIhUKo1+uIRCJoNBoeINv7otbnX6jNhaWBVqa+X9N1PcbMLKx5Flhzf9A0ukNnoVqtPs7n86cNehohNqaW991uF9FodG4zgD87aSjZlUUofQAAAABJRU5ErkJggg==",
+    "keywords": [
+      "Tango",
+      "November",
+      "Oscar"
+    ],
+    "color": "Violet"
+  },
+  {
+    "id": "6",
+    "marca": "Mercedes-Benz",
+    "modelo": "SL-Class",
+    "year": 2003,
+    "description": "at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia",
+    "price": "2431.78",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHbSURBVDjLpZM/a1RBFEfPnfciq4uChLgrWChaihBYbAxqBD+AgrGwVBDRxipgH1AMEQJpbawU9SvYCRaiEmOaBUkRDRYBwf3zZt691+K9DWuXxYELwzCce37MXHF3/mfJtYcv789d7jzZ7XvTHTDDzVBT3Bxzw1Uxd1wVNePIgdTb3NxefLuysJZ3LnRWpxrN0GpM1LjZ6+sqsJb3k4f+7p+J1QfJA0Du6izdOjMx4M7jLSqAGwCxVBxwc9TAcMwcNUNLr8qNqM6p9mHUtAJQv4IEQdzxILg4YkIIgkhARJHMySyQl9V9K2vAiBQAFwGBzMEEzJzMIUhGLqDiaKiMTa2OYPU/EAH3f0Ai4OqYgAsQhMyyCjCKMNpUDKk2YyDLhcV3t0mxJMZEGiZe3HyDWWUQypT2DEYAkbp9Ha0YJi6dnGf+9BUG/QKAMpV1hDpLBvhYlHGjYlBQlAVREw1psPlzA68N8pEKgNQ16r78folvP9aZOXiMYRmJGpk52uLB87ukvAXcIN/+vvXq3rO0YKqYGqqKmaEpYX6WeGKDQ9MFRRoSNbLza4fe7ymOl9dfA8h+pvHq8sUv7en2uRgT3W7388en67N71vsd5/OPZj+kYUqfVr7OjZ//BRjUGmnYsJxdAAAAAElFTkSuQmCC",
+    "keywords": [
+      "Tango",
+      "Charlie",
+      "Foxtrot"
+    ],
+    "color": "Purple"
+  },
+  {
+    "id": "7",
+    "marca": "Mazda",
+    "modelo": "RX-8",
+    "year": 2009,
+    "description": "justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt",
+    "price": "4683.9",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADpSURBVCjPY/jPgB8y0EmBHXdWaeu7ef9rHuaY50jU3J33v/VdVqkdN1SBEZtP18T/L/7f/X/wf+O96kM3f9z9f+T/xP8+XUZsYAWGfsUfrr6L2Ob9J/X/pP+V/1P/e/+J2LbiYfEHQz+ICV1N3yen+3PZf977/9z/Q//X/rf/7M81Ob3pu1EXWIFuZvr7aSVBOx1/uf0PBEK3/46/gnZOK0l/r5sJVqCp6Xu99/2qt+v+T/9f+L8CSK77v+pt73vf65qaYAVqzPYGXvdTvmR/z/4ZHhfunP0p+3vKF6/79gZqzPQLSYoUAABKPQ+kpVV/igAAAABJRU5ErkJggg==",
+    "keywords": [
+      "Oscar",
+      "Golf",
+      "Foxtrot"
+    ],
+    "color": "Aquamarine"
+  },
+  {
+    "id": "8",
+    "marca": "Chevrolet",
+    "modelo": "Avalanche 1500",
+    "year": 2003,
+    "description": "eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis",
+    "price": "2326.41",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIsSURBVDjLpZPNbhJRFMf/w9fwNUiVlZWPncSmqemm7FjZaGJcsdCkS17AJ8AH6BvU6BKfgFIXLqArTQngSoPUDSGEhAUCLQN3xnPOMLSJGBdOcnK45J7f+Z//vVezbRv/8/luLxqNxvvlcnm0WCx8lEFZwjRNzh8KhcKrjYBWq3WHCt7G4/GCrocxpyJYFkQbKdzaiuPs7PQlrf4ENJvNp1ycSCS2I5EILn/2wN0ty4ZlWwSyoQg2n883j0CbT1OplCyurq6xoOKvrQsCWOt4cvhMxtgI4BkDgQDG47HTWSk82nks3e1Vdzb6rwqYrKiIN/GBsPRW8wtlJd35ixl5JJNJVKvVIf0XpP0/KH+kfCIKHK9sATFgZ3dfuosH9gJGNIx8Po9oNJrweDyYTqd7g8Fgr91uv/C4szkKWDJBlDP70LjEtZoik8lA1/W1bB6ZFVHDhwJYF6sb4xj07tsJzKUp3vR6PQyHQ/T7fVBnuR+s2MPmuLeRJcvxWU5+fe8NQlpYOrJ0PubRaIRgMIhYLCYAMZE3eL1eZ27FrhOAVdEathK4O6rrGX+sjBV8rtfrmEwmMAwDwZBON1ATkFoZ627m36trfQMoFosHnU7neaVSuTg/r0EPaMikHyCV2kY6eZ/tFfmscjabwe/3IxQKCYDH126/xlKpdEj0Y4pd9zFls1nkcjmk0+m1F6yi2+2iVqt91/71nMvlcoCkFymOKO4S2EedfxHkE8Xxb6/5rMKMZgtBAAAAAElFTkSuQmCC",
+    "keywords": [
+      "Kilo",
+      "Papa"
+    ],
+    "color": "Green"
+  },
+  {
+    "id": "9"
+  },
+  {
+    "id": "10",
+    "marca": "Mercury",
+    "modelo": "Grand Marquis",
+    "year": 1988,
+    "description": "tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum",
+    "price": "2644.13",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJJSURBVDjLpVM9ixNRFD1vvhLzxUiMCitiCjFWwrJuYaGQICgIgl2wSCWSIr9AFAsbQcVfYGEj9kICizGFgoUIIUENBDFrkLiDukw22fke7501MetHtY+58x6Pd+455973RBiG2MuQsMehzBa9Xu+57/tFCnieB9d15+E4zjxs2+a5WalUSowTbIHA5zRNa+VyuejQn2PRpqqqaLVaGAwGpVqt1owUEOMtXdcxGo0Qi8XmoEUgr4fDITKZDPL5PJPeoO2m6HQ6EXs2m4VpmrvkshUGCiEgy3LEnk6nkUwm0Wg00O/3Swqzs3T2yofi8XgUD+pbSJOYqeNhf0rDl41tCMlHKjFGEG7hh1mAZw7vKsw0mUxgGEZUIGYMggDb0wyKqydweTmFZ6+HuHn15K66PG4ZeBGcX5EoQZE3OBF3oN1uo9vtYmq7+D72osNrb77OgRZtmTZgbDpkLYDCrOyVgxNwsGdJIt9UQ9cPcL+6TKqoqJRApn+CSs84c+LsJJgBWXqhUIjmdz0JFqm48/QTKBc8ShRQhLO20pdQfyngDnCCWes4vPc2bN+DLKkMgcCOspCVhAEp5gvmQbEsq1Gv1y8s3LJoHrtnoQoF1UtpeIGzc+uZmHzHFQ33nqzjmzmBUi6XL/7rjl+5/TKkzoP6gUdvr+NA4iipkGBMP+Pa6Ye0ilOhnd9v4a9Hosg4dhg4lBqjdGoVurYUidi0lnAw6SGh0RmyJP73nFeqa6+OH9l3Ro/pJDlDNlwIKq4Iqdhiig/rH7FhuvgJMpVtkQoe5WAAAAAASUVORK5CYII=",
+    "keywords": [
+      "Alfa",
+      "Sierra",
+      "Quebec",
+      "Bravo"
+    ],
+    "color": "11"
+  },
+  {
+    "id": "184268613-5",
+    "marca": "Pontiac",
+    "modelo": "G5",
+    "year": 2009,
+    "description": "praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci",
+    "price": "3193.47",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK5SURBVBgZBcFPaJZ1HADwz+95n3e6uTnREGdljRKtGCYiHTLxkIUmQeeCOnXzVnQIoi5BQV08TMo6GIiHiKI6ZEWgszzEmtpqSDP7s9ycm9NN977vnuf37fNJEWH/G6df6l676vki2YXVSCAhEpFVOU8uzMX36daNV88MH+oApIhw8O2zZz45vOuhokjrgoYAIALC7NKKEz8vmP67fee3XyfWjwwfakMJRSNt6yob68avaRQpkYhMHVlVheWV2r6tffYPjNi4eLyncWCodf7jI1Jr6sUSUkq9EdHoajQkIZALZOpEIWlPf27r4jndQy/oH9xp4c9tJk4de7eEIEGBlAgJREqKRP/yKXVcsH7r4+Ynf9eVOvrWbtK7YUt/CRBB2SBJIiW5Doqkd3nEllWj+gef1r56UldP8tfYhJt3UhTtuR0FRBAoU6FISYFGkaxePG1LfKv/gYNa/30oNW9o9vbpzvOOXj+wsvvwZ5cKCGSkRJGSIiWtK19af/uU/gef1ZoaVjRXdG7db+bMed173zJVD2QoIFdEkBG4fflrPYs/2vjIMzrTxzS6QvvWfWZGRs3tGZY2bFdnoICcQ0QQTI+e1L3wk5W82dWLR2Qtt+fvNnNuwuLeo1LvgNXNpK4CFFBn6iAysxc/8vCel636Z8SlL84a+2be+Hdjlh57R9WzWaDZKFSdCpSQq5AjvPlLx9DkrM74VwZ3POHm7JzJsUk/7PvU9Sv3yipwYlPTSjuDEqqqVtcMrG0a/+Oa9z8Ytnv7oOXNOyw9edyjffeIIIIL1yqRw0qrAiVU7ZyrnKNTS+te/9flFCYlkJdIS5UcRJEUOSnLlKs6V1DCSqueWdPVuOu1oc6aiCgEGdDfXYIIuptJSnKzkRbrKk9BCSnFe0+9cvq5lNLOED0AgkAIIEAr5zxaFk7A/5IUWNTkV3l/AAAAAElFTkSuQmCC",
+    "keywords": [
+      "Zulu",
+      "Quebec",
+      "Delta"
+    ],
+    "color": "Puce"
+  },
+  {
+    "id": "12",
+    "marca": "Land Rover",
+    "modelo": "Range Rover Sport",
+    "year": 2011,
+    "description": "amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci",
+    "price": "2054.99",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADnSURBVCjPY/jPgB8ykKTggMPemTsfbHmwfuZqBywKDjjsOXP//6f/H/9f/7/0zAIHJAXHpQ437L+6+93j/9//fwHDC/9nz0RScKjhBlDf5/9fgRhkwgcgnvZ34oIeC6iCvVffwyXf/3/3/y0Qvvt//H/7AqiCnVffAqU/wqXf/H/9/9X/l/+bP0AVbG449f/F/6f/z/0/AyQf/z/9/yyQf+B/HcyEdVIrG5ZcXXB19oJpiyc96H3Qub51R+OH2gVVFnBv+uj6+ProYtIIBb6f/08v8OFHp9FMQMdoIYmpG10Bhv1ExSYAuRQri6NL7YwAAAAASUVORK5CYII=",
+    "keywords": [
+      "Charlie",
+      "Juliett",
+      "Foxtrot"
+    ],
+    "color": "Green"
+  },
+  {
+    "id": "13",
+    "marca": "Land Rover",
+    "modelo": "LR2",
+    "year": 2012,
+    "description": "semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis",
+    "price": "2065.08",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGeSURBVDjLxdO9SwJhHAdwIdpqrKmxNZqKuEUhSIyixCI0yjPv1PM1z8KDEonrOPF8OzcVhYoCh2gXp/wzcnmGgiDX1m+PQsZR9EJEw5fnWX6f5/e8mQCYfhPTnwHZbMapKPL9jwFNy47QYllVlWdZPsGXQKGQZwqF3CC5nMbQ4rt6vYabm2uk08fvAOLfHzcA+byGclmHrhdRKhVxcXGGZrOJ8/MzSMlDA0B8MZ7sBqYMgKZl0Oncot1uo9VqodFoQJZlCuoQ49EhQLgo98SHQDZYiaw4J4YA3Suuri6hqioURUEqlYIoinR+ikhEGACP664ucfGLj04PyPKWoStT/6BqtQp4nofb7YbD4YDNZoMg+Gl8r0CP2HcW6QhiWTMCR0cSqtUKJCmJWCwKu30dZrOZYjvw+71vW7BuCr3VTZB5q0hmLWND4OAgjkQiRotDg5bDYWGAeDxu2pXHeIhzS0EyY540dBDfDzOhYIAJBDjG59tjeJ7t9qFkUgTHse+vcXph9NOHRFcd4bysQvP8EfDtp0yhbZqH//tM380L5ZG0STFOrDMAAAAASUVORK5CYII=",
+    "keywords": [
+      "India",
+      "Charlie",
+      "Papa",
+      "Juliett",
+      "Oscar"
+    ],
+    "color": "Yellow"
+  },
+  {
+    "id": "14",
+    "marca": "Chevrolet",
+    "modelo": "Silverado 1500",
+    "year": 2007,
+    "description": "duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea",
+    "price": "1727.99",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAEGSURBVDjLpZM/LwRRFMXPspmEaGc1shHRaiXsJ5GIRixbCr6SikxIlqgJM5UohIiGdofovHf/PZVmYwZvTntPfjnn3txWCAFNNFE33L/ZKXYv+1dRgL3r7bu0PbucJp3e4GLjtsrXGq9wkA8SU7tPk87i/MwCzAyP5QNeytcnJl46XMuoNoGKDoVlTkQhJpAgmJqcBjnqkqPTXxN8qz9cD6vdHtQMxXOBt49y5XjzLB/3tau6kWewKiwoRu8jZFvn+U++GgCBlWFBQY4qr1ANcAQxgQaFjwH4TwYrQ5skYBOYKbzjiASOwCrNd2BBwZ4jAcowGJgkAuAZ2dEJhAUqij//wn/1BesSumImTttSAAAAAElFTkSuQmCC",
+    "keywords": [
+      "X-ray",
+      "November"
+    ],
+    "color": "Fuscia"
+  },
+  {
+    "id": "15",
+    "marca": "GMC",
+    "modelo": "1500 Club Coupe",
+    "year": 1997,
+    "description": "venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque",
+    "price": "4135.99",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIhSURBVDjLlZPrThNRFIWJicmJz6BWiYbIkYDEG0JbBiitDQgm0PuFXqSAtKXtpE2hNuoPTXwSnwtExd6w0pl2OtPlrphKLSXhx07OZM769qy19wwAGLhM1ddC184+d18QMzoq3lfsD3LZ7Y3XbE5DL6Atzuyilc5Ciyd7IHVfgNcDYTQ2tvDr5crn6uLSvX+Av2Lk36FFpSVENDe3OxDZu8apO5rROJDLo30+Nlvj5RnTlVNAKs1aCVFr7b4BPn6Cls21AWgEQlz2+Dl1h7IdA+i97A/geP65WhbmrnZZ0GIJpr6OqZqYAd5/gJpKox4Mg7pD2YoC2b0/54rJQuJZdm6Izcgma4TW1WZ0h+y8BfbyJMwBmSxkjw+VObNanp5h/adwGhaTXF4NWbLj9gEONyCmUZmd10pGgf1/vwcgOT3tUQE0DdicwIod2EmSbwsKE1P8QoDkcHPJ5YESjgBJkYQpIEZ2KEB51Y6y3ojvY+P8XEDN7uKS0w0ltA7QGCWHCxSWWpwyaCeLy0BkA7UXyyg8fIzDoWHeBaDN4tQdSvAVdU1Aok+nsNTipIEVnkywo/FHatVkBoIhnFisOBoZxcGtQd4B0GYJNZsDSiAEadUBCkstPtN3Avs2Msa+Dt9XfxoFSNYF/Bh9gP0bOqHLAm2WUF1YQskwrVFYPWkf3h1iXwbvqGfFPSGW9Eah8HSS9fuZDnS32f71m8KFY7xs/QZyu6TH2+2+FAAAAABJRU5ErkJggg==",
+    "keywords": [
+      "Uniform",
+      "Oscar",
+      "Echo",
+      "Uniform"
+    ],
+    "color": "Khaki"
+  },
+  {
+    "id": "16",
+    "marca": "Mazda",
+    "modelo": "B-Series",
+    "year": 1986,
+    "description": "elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede",
+    "price": "4641.47",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJpSURBVDjLdZLLaxNRFIe/O2kTqxmNxAopUjXWB7pwrUIXggs3oispCoqCFWG0G6H9D6Su3IjrQEAExYULF+LKlagUNL5qs4i0jRhokj6mM/dxXIyPIdgDh3s43Pvx+517lIiQjmq1etJaeyuKomPAFmPMC2PMvSAIXvKfUGlApVK57vv+/aGhIeV5HgArKyvMzc1Jq9W6MTk5+aAX0Jd6fCifz0+XSiXVaDRoNpsA+L5PqVRSYRhOl8vln/V6/XEa4P0put3uq2Kx6M/Pz9NsNi8GQaCCIFCLi4uXZmdnKRQK+bGxsTu9CrxUnTPGsLCwsBQEQfVPc2pqqgK0Op2OGhwczG9oAchYaxER23tpYmJikA1CiQiNV1fk2cxRjFNYazlz5A0Z0Yg1iElSa/vUddtPgfMKOe2J4eC1dypRIML45WMoPFRmAMVpcAr6NgECVvOxevEscBZg5Nwdvj28+c+CWAMIpvWIvtwOlMqD64eBAoiDtQ4jJ0aJw3mcWQPnkDhKAYwBJ2Bj2rW3eN4WCoeP8/35XcTtZHj0FO3PNeJwCX/PdkQsouM0QIMIYjWFgwfwsjtAOWxked8aYJiYwr69rK/mELMG4v4CPADRGhELVrP0YYZ27TV4BrfuiMIIJKb95RPtr43ErnOI1ikFWidUG1PYv4fM5iJ4MeUL45S1ge4Ptu0bItvtTxQ46QXE4BzOxLRrNTKbfdiUh74sOAPdNuHST/TqMv7wVgSX2E4DRCy5XVcZ2J1BZXPJF3r94CzEIX64jNUR4mwyL2NSgDii/uR2MgtjEKN/p/l7Ym2yWNYmtUsW9hfAtnFXLnJPWAAAAABJRU5ErkJggg==",
+    "keywords": [
+      "Romeo",
+      "Victor"
+    ],
+    "color": "Purple"
+  },
+  {
+    "id": "17",
+    "marca": "Lexus",
+    "modelo": "LS",
+    "year": 1994,
+    "description": "curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus",
+    "price": "3240.77",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJRSURBVBgZpcHda45xGMDx7/3yzB6ebc3ayJS8rBDTkixRMsoByoE/wIkDcbQTckJRTnYmB07kiPIaRa28JM2iaLLJS0mYtzLbnvu597t/1++6TCknitrnE5kZMxEzQzEzlB679M34C1HFe8WJ4D3kYuROcF7ICyPzSp4LKdPWd5T5wxA1QjBEDQmGF8Or4r3hRfFBKUQ5c+cLKb9N1ISgIGpIUIpgeFG8GIUoTgKFN5wohVfmVlLyqpAybfuaCv1Dk/SsrjBeC1wYGGNPdzPlughjmsHQuxr3RsbZu3keTpRz976iuSd2ItSc0lxJUIVZpZi8CJTrIvpufCICjl58z6LWOla2l2lvqWNxWz25VzQT4swJD99krFs6m6uPx6gvRezb2kqaRFRdwIDMBVRh4/JGfpmcCjgfsCyQVnNjy8oG7g5PsK2zkZpTTlz5yOHd7WRTATPIpgKDI9d59OIm1XyMQgqqsgl1XaTjeYEPxv2RCdYumYMZVJ1gZmQugEEk/bz89oQtm9axcG4Hd4evMfj8PC3zXhH1HB+xnV3NfPjuKLziRHHeKERxohSiNGkve3ZshyRm14qD9N3eR0LM+cu3iCcmhbwINNQnNMxOaConNFcSWioJrZWUtsYSP6pfKEUVdq04yC+9PWdY2tZJFHvS77nn1M2PmDfUKVYI5hVzAQrFgrJs1RjDowMMjT7g0LaznOzfS30yC9MSkZnxL90HFhxfuLjpyIbOjXTM7+L156cMPHvAh7fjfZGZ8T+6Dyw4CewHGoBJ4PTgqdFDPwHX2V3XB5aEeQAAAABJRU5ErkJggg==",
+    "keywords": [
+      "Yankee",
+      "Quebec"
+    ],
+    "color": "Puce"
+  },
+  {
+    "id": "18",
+    "marca": "Pontiac",
+    "modelo": "Grand Am",
+    "year": 2004,
+    "description": "magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac",
+    "price": "3787.36",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJsSURBVDjLpZNdSFNhGMf/787Ome8SF7mxvuecJGU6SLuWIGZ0E7WgFRiBdZFE1CDwJoyI6iYvhIqKoqibrsIgwUkUjDCkC7UQ03IW5EfS8muTvec95/SsXE3dXQd+8HLO8/+d5zkPh1mWhf+57LlDNBr9YJqmj/je3t4eKFQcDocHdV0PSClHOzs7ty8TULDCMIzHxMlIJFKwLQpnaSP2reqAgg7iENl1T1ObLLI5IKQFYQKnPDexpRhoPNdjp3A9sSOXs+UOFBwgbhPDvepdnuKz3OZ0c4u7eQI13MUnuRDiE/GQ6F/VAQVLiHpCutQ+xFPvUKfcgM2oRFfyIPpnqiHECUlvP0K4Cgl0IkEPq70OYHdpMWZEMxbSNUjOhjA878nObxLZGu8qAd0US4KqBm8AGnNCwo+UaxrY+AQm03FfCCwJdhUSlBAHvF5vsOvCtwI7sNEIYlu2JltbSDBHdCQSCVnZ2lHLaQu6AQhaaJP7Dpy9PRiaG1ecmYXgT4vpsZC9JRST1/8KyK6RwE8obzPXUKsdh8Mo/y2ZfPkem74MI3TmoubwV2FxIKYOxruvdO9VU7Y8gUr4CfZnC2cxo3+kzoDFVzFU1B9G0efXYI+Owjn6DGW+UsVi1vn8EWaJp8TplVsoSY6haL0f2B/99w9c2gDFZGX5IwQpfIwo2+P2WRrj0PlmpIqnkXE7WLrvBdY8b0ZmcRJpqp+fU2AoGM8XUFa/p2nag1jL1LLvL9hOrOuJw1fKYVdUzE9LjE0xw4J1i+V+52AwOESCcmJgZGSkbuUS30S2tnydmLjssUP9YVhyrYbWhpi8+gtmOYLutSnwxAAAAABJRU5ErkJggg==",
+    "keywords": [
+      "Zulu",
+      "Alfa",
+      "Yankee"
+    ],
+    "color": "Maroon"
+  },
+  {
+    "id": "19",
+    "marca": "Dodge",
+    "modelo": "Dakota Club",
+    "year": 2001,
+    "description": "in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam",
+    "price": "2718.69",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIvSURBVDjLpdNdSFNhHMdx6YVIhaALC8GLoFcso5dVRHVRFFQISlJeVFYQgdKKiEprldrmS8KgWYK2raZGbaOcafamLVxq6qxs5qxIHYpkUiYsmVvn2zmnGBbkhbv48Ryeh//n+Z/D/4QBYaHkvweagxujb6cttzlOLuqtP7Wgx3I0tjr38Gp9TnIMYu6L2TEh8DkjQhgzJSL0tSC4rAR0K+i8EId/9BtPLq2RERnQ7Fs7xZs/4643b/qYN3caXrWY7KkEGnQw2AkjA9DnhN5G7FU38DzVUHYiTgIOyUBByqqI0ZyZ9bSUgNMIzeL6/iF4mqDrAQy8+b3fdJUipYK+51q0KfMkIFoG9EeWLfRlRrbLQFkilCZAbSa0ikU9DvHmF+KznmHzcZ81XcGHe0qpmOBHtB2bn+BXz/HQoofyJLi1B+qy4FU59Iutd9WIXRXTWaEbthdsprtG9TfgzJirFhza7zxWgXkvWPbDMzW8NcPXbvhYC+5qWiv1vDPtpvHKNglwBYEvmshK8YaA3LphOzw6B+134JOdQKvx54gx6YfPGO9/XZ4uAxXn10tAdhAYzY94KTQWQlupGBNCRyW+QgVDqkih7fJOp79em9x/84BhZUwULsMuilNjJWBTELAol5R0qKK8Q1nhwmBmuOA+PdtnTl3cMH4mxIIt19OWyh2Mf/8JB+kfIM92cUNIgLu5KD4kQC6uK9gaHOFJAdaz6yTgzGSAa3/+QmmdNf7sF2A4ynPOLQFtAAAAAElFTkSuQmCC",
+    "keywords": [
+      "Mike",
+      "Charlie",
+      "Sierra",
+      "November"
+    ],
+    "color": "Crimson"
+  },
+  {
+    "id": "20",
+    "marca": "Ford",
+    "modelo": "Festiva",
+    "year": 1991,
+    "description": "rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque",
+    "price": "1352.59",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGgSURBVDjLY/j//z8DJZgsTV+9fAu+uHo8+GzvXECWAV+c3R//mTn9/ydLu4eka3ZyY/ts63T3k4Xt+4/GlqS74JONY+9Hc5tdH4wsmAmGgWv9xQKX2nMPnapOF4A1WzsEfjSzefLB0FwUHoi/szPX/05P/f0rOWk9ugHONWefzNl44X/B/L3/o7LXnn1h4fitN6i22Tx7W5tpxqYHxmnrChh+p6X+/rd10/+fsbF/f0REmiE0n7F3rDz5wb7s6Bu3gt3Vz80db69zTd1mlr11tUnGxt89Cw/8N0ha9YDhZ2LC+p8xMb9/hEdc+h4Ucu+br//JFXFNi5zKjz20KztiDzIMGFgzP+iZboQZbpSypsAgaeUjvfilqIEI9C9bf8rk3Wd8kz59sHV+BQysa8DA+vNe1+Trew0DfrwJCehfCceqU8fsy48ttS05xAkMLANgYP39N23K/3fq+n9wpkTXugsFQP8+B/r3DdC/pciS77WN1r9T0/v9Vkl7PU4DnKrPPJi85uJ/oH9fkpUXHCqOF9iVHn5gU7S/gG6ZiaoGAADG9LhB7Kzu8AAAAABJRU5ErkJggg==",
+    "keywords": [
+      "Victor",
+      "Delta"
+    ],
+    "color": "Green"
+  }
+]

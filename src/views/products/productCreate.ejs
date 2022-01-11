@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+  <link rel="stylesheet" href="/css/páginas/styles_create.css">
+  <%- include('../partials/head.ejs')%>
+  <title>Login</title>
+<body>
+  <%- include('../partials/header.ejs')%>
+<div class="completo">
+  <div class="registro">
+
+    <div class="cabecera">
+      <img class="logo" src="/img/SVG/autoConfig.svg" >
+    </div>
+    <section class="form-register">
+        <div class="datos">
+          <h4>Datos del vehículo</h4>
+    <form action="/productos" method="POST" enctype = "multipart / form-data">
+            <input class="controls" type="text"  name="marca" id="marca" placeholder="Marca">
+            <input class="controls" type="text"  name="modelo" id="modelo" placeholder="Modelo">
+            <input class="controls" type="number"  name="kilometros" id="km" placeholder="Kilometros">
+            <input class="controls" type="number" name="año" id="año" placeholder="Año">
+            <input class="controls" type="text"  name="color" id="color" placeholder="Color">
+            <label>Combustible</label>
+            <select name="combustible" id="comb">
+              <option value=""></option>
+              <option value="Nafta">Nafta</option>
+              <option value="Gas-Oil">Gas-Oil</option>
+              <option value="Electrico">Electrico</option>
+              <option value="Hibrído">Hibrído</option>
+            </select>
+            <input class="controls" type="text"  name="motor" id="motor" placeholder="Motor">
+            <input class="controls" type="text"  name="precio" id="precio" placeholder="Precio">
+            <label>Imagénes</label>
+            <input type="file" name="imagen" id="imagen" placeholder="Imagén">
+            <input class="botons-registro" type="submit" value="Guardar" name="guardar">
+           <!-- <input class="botons-registro" type="button" value="Modificar" name="modificar">
+            <input class="botons-registro" type="reset" value="Borrar" name="borrar"> -->
+        </div>
+        </div>
+        </div>
+    </form>
+</body>
+</html>

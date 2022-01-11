@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+  <link rel="stylesheet" href="/css/páginas/styles_productsList.css">
+  <%- include('../partials/head.ejs')%>
+  <title>Lista de Productos</title>
+<body>
+  <%- include('../partials/header.ejs')%>
+  <h1 class="title">Autos disponibles</h1>
+  <div class="listado">
+  <ul>
+        <li>
+            <img class="img" src="<%= miAuto.imagen %>" alt="">
+            <div class="lista">
+            <label>Marca</label>
+            <a><%= miAuto.marca %></a>
+            <label>Año</label>
+            <a><%= miAuto.año %></a>
+            <Label>Kilometros</Label>
+            <a><%= miAuto.kilometros %></a>
+            <label>Modelo</label>
+            <a><%= miAuto.modelo %></a>
+            <label>Combustible</label>
+            <a><%= miAuto.combustible %></a>
+            <Label>Precio</Label>
+            <a><%= miAuto.precio %></a>
+            <label>Motor</label>
+            <a><%= miAuto.motor %></a>
+            <Label>Color</Label>
+            <a><%= miAuto.color %></a>
+        </div>
+        </li>
+  </ul>
+</div>
+    
+</body>
+    <%- include('../partials/footer.ejs')%>
+</html>

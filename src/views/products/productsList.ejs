@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+  <link rel="stylesheet" href="/css/páginas/styles_productsList.css">
+  <%- include('../partials/head.ejs')%>
+  <title>Lista de Productos</title>
+<body>
+  <%- include('../partials/header.ejs')%>
+  <h1 class="title">Autos disponibles</h1>
+  <div class="listado">
+  <ul>
+      <% for (let i = 0; i< autos.length; i++) { %>
+        <li>
+            <img class="img" src="<%= autos[i].imagen %>" alt="">
+            <div class="lista">
+            <label>Marca</label>
+            <a href="/productos/<%= autos[i].id %>"><%= autos[i].marca %></a>
+            <label>Modelo</label>
+            <a href="/productos/<%= autos[i].id %>"><%= autos[i].modelo %></a>
+            <Label>Precio</Label>
+            <a href="/productos/<%= autos[i].id %>"><%= autos[i].price %></a>
+        </div>
+        </li>
+      <% } %>
+  </ul>
+</div>
+    
+</body>
+    <%- include('../partials/footer.ejs')%>
+</html>

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "marca": "Volkswagen",
+    "modelo": "Nivus",
+    "kilometros": "15",
+    "año": "2022",
+    "color": "Rojo",
+    "Combustible": "Nafta",
+    "motor": "2.0",
+    "precio": "30000",
+    "modificar": "Modificar"
+  },
+  {
+    "id": 2,
+    "marca": "Volkswagen",
+    "modelo": "Taos",
+    "kilometros": "23",
+    "año": "2021",
+    "color": "Azul",
+    "combustible": "Nafta",
+    "motor": "2.0",
+    "precio": "30000",
+    "imagen": "/img/products/2560_3000.jpg"
+  },
+  {
+    "id": 3,
+    "marca": "VolksWagen",
+    "modelo": "T-cross",
+    "kilometros": "30",
+    "año": "2021",
+    "color": "Volkswagen-T-Cross-19",
+    "combustible": "Nafta",
+    "motor": "1.6",
+    "precio": "2000",
+    "imagen": "/img/products/Volkswagen-T-Cross-19.jpeg"
+  },
+  {
+    "id": 4,
+    "marca": "VolksWagen",
+    "modelo": "Tiguan",
+    "kilometros": "0",
+    "año": "2022",
+    "color": "Blanco",
+    "combustible": "Nafta",
+    "motor": "2.4",
+    "precio": "35000",
+    "imagen": "/img/products/Volkswagen-Tiguan-2016-02.jpg"
+  }
+]

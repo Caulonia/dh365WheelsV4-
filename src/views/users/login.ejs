@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <link rel="stylesheet" href="/css/páginas/styles_login.css">
+  <%- include('../partials/head.ejs')%>
+<body>
+  <%- include('../partials/header.ejs')%>
+<div class="completo">
+  <div class="registro">
+
+    <div class="cabecera">
+      <img class="logo" src="/img/SVG/365Wheels.svg" />
+    </div>
+    <section class="form-register">
+      <div class="datos">
+        <h4>Ingresar datos</h4>
+        <input class="controls" type="text" name="Usuario" id="Usuario" placeholder="Usuario" />
+        <input class="controls" type="password" name="password" id="password" placeholder="Contraseña" />
+        <input class="botons-registro" type="submit" value="Ingresar">
+        <div class="botonesRS">
+          <div class="botRegistro-Facebook">
+            <img class="logoRS" src="/img/PNG/Iconos/facebook_letraBlanca.png" alt="logo de facebook">
+            <p>Facebook</p>
+          </div>
+          <div class="botRegistro-Google">
+            <img class="logoRS" src="/img/PNG/Iconos/google_colores.png" alt="logo de google">
+            <p class="fuente-google">Google</p>
+          </div>
+        </div>
+        <div class="espacio"><a  id="olvContrasenia" href="#">¿Olvidó su contraseña?</a></div>
+      </div>
+    </section>
+  </div>
+</div>
+</body>
+
+</html>

@@ -1,3 +1,6 @@
 # dependencias
-/node_modules 
+node_modules/ 
+retro.md/
+package-lock.json/
+
 

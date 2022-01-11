@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(7, 146, 200);
+    margin: 0;
+    padding: 0;
+}
+
+  /* ------------------------------------------------ */
+
+@font-face {
+    font-family: "Saira-Black";
+    src: url("/fonts/Saira/Saira-Black.ttf");
+  }
+  
+  @font-face {
+    font-family: "Saira-ExtraBold";
+    src: url("/fonts/Saira/Saira-Black.ttf");
+  }
+  
+  @font-face {
+    font-family: "Saira-Regular";
+    src: url("/fonts/Saira/Saira-Black.ttf");
+  }
+  
+  @font-face {
+    font-family: "Saira-Medium";
+    src: url("/fonts/Saira/Saira-Medium.ttf");
+  }
+  
+  @font-face {
+    font-family: "Saira-Thin";
+    src: url("/fonts/Saira/Saira-Thin.ttf");
+  }
+
+  /* ------------------------------------------------ */
+
+.pantallaError{
+    height:100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenidoError {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: 70%; */
+}
+
+.h2Error{
+    color: #000;
+    font-family: "Saira-Black";
+    font-size: 30px; 
+    margin: 0;
+}
+
+.h3Error{
+    color: #fff;
+    font-family: "Saira-Black";
+    font-size: 25px;
+    margin: 0;
+}
+
+.pError{
+    /* text-decoration: none; */
+    font-family: "Saira-Regular";
+    color: #0c1f48;
+} 
+
+/* ----------------------------------------------------------- */
+
+@media (min-width: 700px) {
+    .contenidoError {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 40%;
+    }
+
+    .h2Error{
+        color: #000;
+        font-family: "Saira-Black";
+        font-size: 60px; 
+        margin: 0;
+    }
+    
+    .h3Error{
+        color: #fff;
+        font-family: "Saira-Black";
+        font-size:35px;
+        margin: 0;
+    }
+
+    .pError{
+        /* text-decoration: none; */
+        font-family: "Saira-Regular";
+        color: #0c1f48;
+        font-size: 20px;
+    } 
+
+}

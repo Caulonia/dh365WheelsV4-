@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+  <link rel="stylesheet" href="/css/users/userProfile.css">
+  <%- include('../partials/head.ejs')%>
+  <title>Login</title>
+<body>
+  <%- include('../partials/header.ejs')%>
+
+<div class="completo">
+  <div class="registro">
+
+    <div class="cabecera">
+      <img class="logo" src="/img/SVG/365Wheels.svg">
+    </div>
+    <section class="form-register">
+      <form class="datos" action="/usuarios/editar?_method=PUT" method="POST"><!-- action es la ruta donde viaja la info que completamos en el form// method siempre POST-->
+        <h4><i class="fas fa-user-circle">PERFIL</i></h4>
+        <label for="foto userProfile">Editar foto<input type = 'file' name ='foto userProfile' value="Editar foto" accept=".jpeg,png"></label>
+        <input class="controls" type="text" name="nombre" value ='<%= usersToEdit.nombre %>'>
+
+        <input class="controls" type="text" name="apellido" value ='<%= usersToEdit.apellido %>'>
+        <input class="controls" type="email" name="correo" value ='<%= usersToEdit.correo %>'>
+        <input class="controls" type="text" name="Domicilio" value ='<%= usersToEdit.domicilio %>'>
+        <input class="controls" type="number" name="TelCelular" value ='<%= usersToEdit.celular %>'>
+        <label for="birth-day">Fecha de nacimiento<input type="date" name="birth-day" value ='<%= usersToEdit.nacimiento %>'> </label>
+        <input class="botons-registro" type="submit" value="Confirmar">
+      </form>
+    </section>
+  </div>
+</div>
+</body>
+
+</html>
+
+<!-- Luego de enviar la info completa del form se encribe una ruta PUT en routes para que reaccione a esa petición-->
+

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+  <link rel="stylesheet" href="/css/páginas/styles_create.css">
+  <%- include('../partials/head.ejs')%>
+  <title>Login</title>
+<body>
+  <%- include('../partials/header.ejs')%>
+<div class="completo">
+  <div class="registro">
+
+    <div class="cabecera">
+      <img class="logo" src="/img/SVG/autoConfig.svg" >
+    </div>
+    <section class="form-register">
+        <div class="datos">
+          <h4>Datos del vehículo</h4>
+    <form action="/productos/<%= miAuto.id %>/actualizar?_method=PUT" method="POST" enctype="multipart / form-data">
+            <input class="controls" type="text"  name="id" id="id" placeholder="id" value="<%= miAuto.id %>">
+            <input class="controls" type="text"  name="marca" id="marca" placeholder="Marca" value="<%= miAuto.marca %>">
+            <input class="controls" type="text"  name="modelo" id="modelo" placeholder="Modelo" value="<%= miAuto.modelo %>">
+            <input class="controls" type="number"  name="kilometros" id="km" placeholder="Kilometros" value="<%= miAuto.kilometros %>">
+            <input class="controls" type="number" name="año" id="año" placeholder="Año" value="<%= miAuto.año %>">
+            <input class="controls" type="text"  name="color" id="color" placeholder="Color" value="<%= miAuto.color %>">
+            <label>Combustible</label>
+            <select name="Combustible" id="comb">
+
+         
+              <!--Acá necesitamos que pre cargue el combustible -->
+
+
+              <option value="<%= miAuto.combustible %>"></option>
+              <option value="Nafta">Nafta</option>
+              <option value="Gas-Oil">Gas-Oil</option>
+              <option value="Electrico">Electrico</option>
+              <option value="Hibrído">Hibrído</option>
+            </select>
+
+
+           
+
+            <input class="controls" type="text"  name="motor" id="motor" placeholder="Motor" value="<%= miAuto.motor %>">
+            <input class="controls" type="text"  name="precio" id="precio" placeholder="Precio" value="<%= miAuto.precio %>">
+            <label>Imagénes</label>
+            <input type="file" name="imagen" id="imagen" placeholder="Imagén">
+            <input class="botons-registro" type="submit" value="Modificar" name="modificar">
+            <input class="botons-registro" type="submit" value="Modificar" name="modificar">
+      
+          </form>
+        </div>
+        </div>
+        </div>
+</body>
+</html>

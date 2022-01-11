@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <link rel="stylesheet" href="/css/páginas/styles_productDetails.css">
+  <%- include('../partials/head.ejs')%>
+<body>
+  <%- include('../partials/header.ejs')%>
+  
+ <!-- <div class="nombreMarca">
+    <img class="modeloAuto" src="/img/JPEG/Marcas/Ferrari/LaFerrari/aperta-logo.png" alt="logo LaFerrari">
+  </div>-->
+  <img class="img" src="<%= miAuto.imagen %>" alt="">
+
+  <div class="cont-Detalles">
+    <div class="colLogo" style="background-image: url(/img/products/TeslaPNG.png); background-size: 80%; background-repeat: no-repeat; background-position: center;">
+        <a></a>
+    </div>
+    <div class="datosDetalles">
+        <div class="colDetalle">
+            <p class="estDetalle">Modelo</p>
+            <a class="dinamDetalle"><%= miAuto.modelo %></a>
+        </div>
+
+        <div class="colDetalle">
+            <p class="estDetalle">Año</p>
+            <a class="dinamDetalle"><%= miAuto.año %></a>
+        </div>
+
+        <div class="colDetalle">
+            <p class="estDetalle">Kilometros</p>
+            <a class="dinamDetalle"><%= miAuto.kilometros %></a>
+        </div>
+
+        <div class="colDetalle">
+            <p class="estDetalle">Combustible</p>
+            <a class="dinamDetalle"><%= miAuto.combustible %></a>
+        </div>
+
+        <div class="colDetalle">
+            <p class="estDetalle">Motor</p>
+            <a class="dinamDetalle"><%= miAuto.motor %></a>
+        </div>
+
+        <div class="colDetalle">
+            <p class="estDetalle">Precio</p>
+            <a class="dinamDetalle">$ <%= miAuto.precio %></a>
+        </div>
+    </div>
+</div>
+
+
+    <div class="descripcion">
+      <div class="textoAuto">
+        <p>&nbsp;&nbsp;&nbsp;&nbsp; El Ferrari LaFerrari fue presentado en el Salón del Automóvil de Ginebra de 2013.
+          Se trata del superdeportivo más moderno, innovador y veloz de la historia de la
+          marca italiana que toma el relevo de modelos tan míticos como el Ferrari F40,
+          el Ferrari F50 o el Ferrari Enzo. Modelos que, sin duda, representan lo mejor.
+      </div>
+    </div>
+  </div>
+
+
+  <div class="detalle">
+    <div class="descripcion">
+      <div class="textoAuto">
+        <p>&nbsp;&nbsp;&nbsp;&nbsp; El Ferrari LaFerrari fue presentado en el Salón del Automóvil de Ginebra de 2013.
+          Se trata del superdeportivo más moderno, innovador y veloz de la historia de la
+          marca italiana que toma el relevo de modelos tan míticos como el Ferrari F40,
+          el Ferrari F50 o el Ferrari Enzo. Modelos que, sin duda, representan lo mejor.
+      </div>
+    </div>
+
+  </div>
+
+  <div class="galeria">
+    <div class="img1"></div>
+    <div class="img2"></div>
+    <div class="img3"></div>
+    <div class="img4"></div>
+    <div class="img5"></div>
+    <div class="img6"></div>
+  </div>
+
+</body>
+<%- include('../partials/footer.ejs')%>
+</html>
