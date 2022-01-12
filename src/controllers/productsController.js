@@ -45,7 +45,7 @@ const productsController = {
             combustible: productCreate.combustible,
             motor: productCreate.motor,
             precio: productCreate.precio,
-            imagen: imageUpLoad.filename,
+            imagen: productCreate.imagen,
         };
         autos.push(autoNuevo);
         let autoNuevoGuardar = JSON.stringify(autos,null,2);
