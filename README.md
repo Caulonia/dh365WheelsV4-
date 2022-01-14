@@ -149,7 +149,7 @@ Nos enfocamos en los usuarios, en esta etapa generamos el registro, el login, el
 	Las de usuarios deberán redireccionar al login si el usuario no está logeado
 
 
-## Sprint 6 - Bases de datos
+## Sprint 6 - Base de datos
 Dejamos atrás JSON para pasar a algo más profesional que escale mejor. En este sprint estaremos trabajando con MySQL por un lado y Sequelize por el otro.
 
 #### Diagrama de base de datos
