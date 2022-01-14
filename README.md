@@ -1,4 +1,4 @@
-# Comenzando 🚀
+# Comenzando | 🚀
 
 El mismo apuntará a dar una copia del proyecto en funcionamiento, describirá la lógica del mismo. Basado en proyectos similares, adecuado a la realidad requerida. Utilizando lo impartido a lo largo del curso, aplicando todas las tecnologías necesarias. 
 
@@ -6,7 +6,7 @@ El mismo apuntará a dar una copia del proyecto en funcionamiento, describirá l
 ------------
 
 
-# Integrantes 👨‍💻
+# Integrantes | 👨‍💻
 
 👨‍ Martin Martincorena, Uruguayo de Paysandú estudiante de UTEC en la carrera LTI (Licenciatura en Tecnología de la Información). Hincha de Peñarol en su tiempo libre le gusta ir al gym.
 
@@ -19,7 +19,7 @@ El mismo apuntará a dar una copia del proyecto en funcionamiento, describirá l
 
  ------------
  
- # Descripción General 📚
+ # Descripción general | 📚
 
 E-Commerce orientado a un público selecto, el cual es consumidor de vehículos de alta gama. 365 Wheels es una empresa que se dedica a la compra y venta de autos nuevos y usados, trabajamos con todas las marcas y modelos. ¡Si lo pide, 365 Wheels lo consigue!
 
@@ -29,9 +29,9 @@ E-Commerce orientado a un público selecto, el cual es consumidor de vehículos 
 ------------
 
 
- ## Sitios de referencia 📃 
+ ## Sitios de referencia | 📃 
 
-| Plugin | README |
+| Empresa | Página |
 | ------ | ------ |
 | Toyota | https://www.toyota.com |
 | Volkswagen | https://www.vw.com|
@@ -43,7 +43,7 @@ E-Commerce orientado a un público selecto, el cual es consumidor de vehículos 
 ------------
  
  
-# Software utilizado 📋
+# Software utilizado | 📋
 
 ### Front End	
 | Software | Descripción |
@@ -76,7 +76,7 @@ E-Commerce orientado a un público selecto, el cual es consumidor de vehículos 
 ------------
 
 
-# Desarrollo 🛠️
+# Desarrollo | 🛠️
 
 A continuación se detallarán los sprints y en que consiste cada uno de ellos
 
@@ -205,7 +205,7 @@ En este sprint final vemos que podemos enviar y recibir datos de manera eficient
 ------------
 
 
-# Despliegue 📦
+# Despliegue | 📦
 
 **Heroku**  - https://wheels365.herokuapp.com/
 		
